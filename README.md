@@ -56,3 +56,4 @@ Explore o potencial da Pesquisa de IA do Azure para melhorar a compreensão das 
 ---
 
 Links úteis: [Documentação da Pesquisa de IA do Azure](https://docs.microsoft.com/azure/search/)
+- [Explorar um índice de Pesquisa de IA (UI) do Azure](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html)
